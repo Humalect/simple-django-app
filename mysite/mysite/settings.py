@@ -25,7 +25,7 @@ SECRET_KEY = '(mgtquh1_hoko)wmpzb=kysv29jprhu%x+#8^hk%)05k8d03_e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django.march.humalect.dev']
 
 
 # Application definition
